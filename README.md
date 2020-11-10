@@ -10,3 +10,4 @@ Using a hypothetical website is important in this context because I believe a lo
 3) Having a mandatory categorization process for each item to ensure it shows up in appropriate searches and filters. 
 
 
+![Uploading Screen Shot 2020-11-10 at 2.14.14 PM.png…]()
