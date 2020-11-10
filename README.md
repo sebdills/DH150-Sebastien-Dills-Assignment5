@@ -12,5 +12,3 @@ Using a hypothetical website is important in this context because I believe a lo
 
 [dh150 assignment 5.pdf](https://github.com/sebdills/DH150-Sebastien-Dills-Assignment5/files/5520535/dh150.assignment.5.pdf)
 
-
-dh150 assignment 5.pdf
