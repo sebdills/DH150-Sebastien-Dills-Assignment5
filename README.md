@@ -12,4 +12,4 @@ Using a hypothetical website is important in this context because I believe a lo
 
 [dh150 assignment 5.pdf](https://github.com/sebdills/DH150-Sebastien-Dills-Assignment5/files/5520535/dh150.assignment.5.pdf)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/sebdills/DH150-Sebastien-Dills-Assignment5/blob/main/dh150%20assignment%205.pdf)
